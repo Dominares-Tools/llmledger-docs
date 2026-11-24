@@ -12,7 +12,7 @@ Buy llmledger at https://dominares.org/tools/llmledger: one payment of $99, plus
 
 Requirements: The Python standard library. The [tz] extra adds tzdata, and [toml] adds TOML config on Python 3.10.
 
-This page documents version 1.0.2. Install commands and file paths in the documentation below run inside the private repository you are invited to; the source is not in this repository.
+This page documents version 1.0.3. Install commands and file paths in the documentation below run inside the private repository you are invited to; the source is not in this repository.
 
 ## Documentation
 

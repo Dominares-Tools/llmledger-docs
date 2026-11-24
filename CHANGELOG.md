@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.3
+
+No change to the code.
+
+- The 1.0.1 changelog entry was reworded.
+
 ## 1.0.2
 
 Documentation and packaging only. The code is unchanged.
@@ -13,8 +19,8 @@ Documentation and packaging only. The code is unchanged.
 
 Licence and contact details only. The code is unchanged.
 
-- Licence text updated (Dominares Tools Commercial License, version 1.3).
-- One public contact address, support@dominares.org, in the licence and the README.
+- Licence text updated (version 1.3).
+- One public contact address in the licence and the README.
 
 ## 1.0.0 (2026-09-29)
 
